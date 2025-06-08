@@ -1,3 +1,18 @@
+.search{
+    padding-top: 80px;
+    width: 100%;
+}
+
+.search-input{
+    display: flex;
+    align-items: center;
+    max-width: 416px;
+    padding: 16px;
+    border: 1px solid #4B4B4B;
+    border-radius: 100px;
+    gap: 10px;
+}
+
 
 .blog-profile {
   display: flex;
